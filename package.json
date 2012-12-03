@@ -1,5 +1,5 @@
 {
-  "name": "kipptjs",
+  "name": "kippt",
   "version": "0.0.1",
   "description": "Kippt API written in Node.js",
   "main": "lib/index.js",
