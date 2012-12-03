@@ -14,7 +14,7 @@ npm install git://github.com/jiin/kippt
 
 And use in your node source:
 ```javascript
-var kippt = require('kippt');
+var Kippt = require('kippt');
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ You can use API only if you are authenticated. You can authenticate via API Toke
 
 ### API Token
 ```javascript
-var client = new kippt({ 
+var client = new Kippt({ 
     username: 'your_nickname'
   , api_token: '31e4d0b0d47acaf3ebbeb187d17d67cfddec79c1' 
 });
@@ -33,7 +33,7 @@ var client = new kippt({
 
 ### Username/Password
 ```javascript
-var client = new kippt({ 
+var client = new Kippt({ 
     username: 'your_nickname'
   , password: 'your_password'
 });
@@ -41,7 +41,7 @@ var client = new kippt({
 
 ### Get account details
 ```javascript
-var client = new kippt({ 
+var client = new Kippt({ 
     username: 'your_nickname'
   , api_token: '31e4d0b0d47acaf3ebbeb187d17d67cfddec79c1' 
 });
