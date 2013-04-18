@@ -1,7 +1,7 @@
 ## 
 ###
 
-![Kippt](https://kippt.com/static/img/kippt-150.png)
+![Kippt](https://d17f28g3dsa4vh.cloudfront.net/img/kippt-logo-r.png)
 
 ## Installation
 
